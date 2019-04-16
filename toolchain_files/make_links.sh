@@ -27,3 +27,4 @@ ln -s riscv32-unknown-elf-run          klessydra-unknown-elf-run
 ln -s riscv32-unknown-elf-size         klessydra-unknown-elf-size
 ln -s riscv32-unknown-elf-strings      klessydra-unknown-elf-strings
 ln -s riscv32-unknown-elf-strip        klessydra-unknown-elf-strip
+
